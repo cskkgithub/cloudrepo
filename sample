@@ -1,3 +1,5 @@
+COMPLETE GIT COMMANDS
+
 scenario 1: Create Empty Local repository & add some files, modify files then add to git staging area & commit all changes together
 
 	mkdir ProjectA ; cd ProjectA
